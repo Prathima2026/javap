@@ -15,5 +15,26 @@ class throws1{
             System.out.println("Github intro");
         }
 
+        int a = 10;
+        int b = 20;
+        int c = a+b;
+        sysout("result: "+c);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
     }
 }
